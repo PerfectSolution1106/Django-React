@@ -1,4 +1,4 @@
-// Webpack dev server
+// Webpack dev server - perfect:2019
 import webpack from 'webpack';
 import WebpackDevServer from 'webpack-dev-server';
 import config from './webpack.local.config';
